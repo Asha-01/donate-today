@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+    font-family: 'Rubik', sans-serif;
+    width: 100%;
+    
+}
+.first-page{
+    text-align: center;
+    color: beige;
+    background-image: url(/donation13.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     height: 500%;
+     width: 100%;
+     padding-bottom: 40%; 
+}
+h1{
+    padding: 5%;
+    font-size: 60px;
+    padding-bottom: 50px;
+}
+#first{
+    padding: 5%;
+    padding-top: 10%;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+    font-weight: 500px;
+    background-image: linear-gradient(orangered,tomato);
+    padding: 10px 30px;
+    color:beige;
+    border-radius: 7px;
+}
+.donate-today{
+    text-align: center;
+}
+#donate{
+    
+    font-size: 40px;
+}
+.box-tk{
+    display: flex;
+        flex-wrap: nowrap;
+        padding: 20% 0 5% 20%;
+        text-align: center;
+    }
+    .box-tk >div{
+        background-color: #f1f1f1;
+            width: 100px;
+            margin: 10px;
+            text-align: center;
+            line-height: 75px;
+            font-size: 30px;
+            padding: 2%;
+    }
+#box-2{
+    background-color:lightgoldenrodyellow;
+    margin: 2px;
+}
+h4{
+    text-decoration: underline;
+    
+}
+.our-donate-plan{
+    display: flex;
+margin-top: 10%;
+margin-bottom: 20%;
+}
+.our-donate-plan >div {
+    background-color: #f1f1f1;
+    width: 50%;
+    height: 70%;
+    margin: 2px 2px;
+    text-align: center;
+    font-size: 20px;
+    padding: 7%;
+}
+.flex-container{
+    display: flex;
+    padding: 2%;
+}
+#flex-item{
+  font-size: 20px;    
+}
+#flex-img{
+    width: 100%;
+}
+.flexible{
+    padding:10% 10% 5% 0 ;
+    width: 50%;
+}
+.update{
+    display: flex;
+    margin: 0;
+}
+.update-button{
+    display: flex;
+}
+.update{
+    display: flex;
+    
+    
+}
+.get-update{
+    text-align: center;
+}
+.update{
+    display: flex;
+    padding: 10%;
+    text-align: center;
+    width: 100%;
+}
+footer{
+    background-color: black;
+    font-family: fantasy;
+    color: burlywood;
+    text-align: center;
+    width:100%;
+    height: 50%;
+    font-size: 40px;
+}
+footer p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
